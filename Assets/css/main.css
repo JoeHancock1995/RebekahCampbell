@@ -25,15 +25,23 @@ list-style-type: none;
 }
 
 .bioBox{
-  width: 20%;
+  width: 30%;
+  margin-left: 10%;
+
+}
+
+#aboutHeader {
+  text-align: left;
+
 }
 
 #aboutText {
-  margin-left: 0;
+  width: 90%;
 }
 
-#aboutText {
-  margin-left: 0;
+.exhibitBox{
+  width: 40%;
+  margin-left: 50%;
 }
 
 
