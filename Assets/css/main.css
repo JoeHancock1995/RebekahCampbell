@@ -24,6 +24,18 @@ ul li
 list-style-type: none;
 }
 
+.bioBox{
+  width: 20%;
+}
+
+#aboutText {
+  margin-left: 0;
+}
+
+#aboutText {
+  margin-left: 0;
+}
+
 
 /* cyrillic-ext */
 @font-face {
