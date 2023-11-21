@@ -54,7 +54,7 @@ list-style-type: none;
 /* <-------------------------------------------------------------------------> */
 
 .journalBox1{
-  width: 30%;
+  width: 40%;
   margin-left: 10%;
 }
 
@@ -66,11 +66,12 @@ list-style-type: none;
   width: 90%;
 }
 
-.hover_img {
+/* .hover_img {
   position:relative;
-  height: 100%;
+   height: 100%; 
   width:100%;
   z-index: 99;
+  float: right;
 }
 
 .hover_img img {
@@ -79,16 +80,14 @@ list-style-type: none;
   left: 50%;
   transform: translate(-50%, -50%);
   display:none;
-}
+} */
 
-#hover_img1{
-  
-}
+
 /* <-------------------------------------------------------------------------> */
 
 .journalBox2{
-  width: 30%;
-  margin-left: 10%;
+  width: 40%;
+  margin-left: 30%;
 }
 
 #jB2Header{
@@ -96,14 +95,15 @@ list-style-type: none;
 }
 
 #jB2Text{
+  width: 90%;
 
 }
 
 /* <-------------------------------------------------------------------------> */
 
 .journalBox3{
-  width: 30%;
-  margin-left: 10%;
+  width: 40%;
+  margin-left: 30%;
 }
 
 #jB3Header{
@@ -111,14 +111,15 @@ list-style-type: none;
 }
 
 #jB3Text{
+  width: 90%;
 
 }
 
 /* <-------------------------------------------------------------------------> */
 
 .journalBox4{
-  width: 30%;
-  margin-left: 10%;
+  width: 40%;
+  margin-left: 0%;
 }
 
 #jB4Header{
@@ -126,13 +127,14 @@ list-style-type: none;
 }
 
 #jB4Text{
+  width: 90%;
 
 }
 
 /* <-------------------------------------------------------------------------> */
 
 .journalBox5{
-  width: 30%;
+  width: 40%;
   margin-left: 10%;
 }
 
@@ -142,14 +144,15 @@ list-style-type: none;
 }
 
 #jB5Text{
+  width: 90%;
 
 }
 
 /* <-------------------------------------------------------------------------> */
 
 .journalBox6{
-  width: 30%;
-  margin-left: 10%;
+  width: 40%;
+  margin-left: 0%;
 }
 
 #jB6Header{
@@ -157,13 +160,14 @@ list-style-type: none;
 }
 
 #jB6Text{
+  width: 90%;
 
 }
 
 /* <-------------------------------------------------------------------------> */
 
 .journalBox7{
-  width: 30%;
+  width: 40%;
   margin-left: 10%;
 }
 
@@ -172,14 +176,15 @@ list-style-type: none;
 }
 
 #jB7Text{
+  width: 90%;
 
 }
 
 /* <-------------------------------------------------------------------------> */
 
 .journalBox8{
-  width: 30%;
-  margin-left: 10%;
+  width: 40%;
+  margin-left: 0%;
 }
 
 #jB8Header{
@@ -187,6 +192,7 @@ list-style-type: none;
 }
 
 #jB8Text{
+  width: 90%;
 
 }
 
