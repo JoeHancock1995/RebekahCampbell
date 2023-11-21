@@ -24,6 +24,10 @@ ul li
 list-style-type: none;
 }
 
+/*Info Page*/
+
+/* <-------------------------------------------------------------------------> */
+
 .bioBox{
   width: 30%;
   margin-left: 10%;
@@ -43,6 +47,151 @@ list-style-type: none;
   width: 40%;
   margin-left: 50%;
 }
+
+
+/*Landing Page*/
+
+/* <-------------------------------------------------------------------------> */
+
+.journalBox1{
+  width: 30%;
+  margin-left: 10%;
+}
+
+#jB1Header{
+  text-align: left;
+}
+
+#jB1Text{
+  width: 90%;
+}
+
+.hover_img {
+  position:relative;
+  height: 100%;
+  width:100%;
+  z-index: 99;
+}
+
+.hover_img img {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display:none;
+}
+
+#hover_img1{
+  
+}
+/* <-------------------------------------------------------------------------> */
+
+.journalBox2{
+  width: 30%;
+  margin-left: 10%;
+}
+
+#jB2Header{
+  text-align: left;
+}
+
+#jB2Text{
+
+}
+
+/* <-------------------------------------------------------------------------> */
+
+.journalBox3{
+  width: 30%;
+  margin-left: 10%;
+}
+
+#jB3Header{
+  text-align: left;
+}
+
+#jB3Text{
+
+}
+
+/* <-------------------------------------------------------------------------> */
+
+.journalBox4{
+  width: 30%;
+  margin-left: 10%;
+}
+
+#jB4Header{
+  text-align: left;
+}
+
+#jB4Text{
+
+}
+
+/* <-------------------------------------------------------------------------> */
+
+.journalBox5{
+  width: 30%;
+  margin-left: 10%;
+}
+
+
+#jB5Header{
+  text-align: left;
+}
+
+#jB5Text{
+
+}
+
+/* <-------------------------------------------------------------------------> */
+
+.journalBox6{
+  width: 30%;
+  margin-left: 10%;
+}
+
+#jB6Header{
+  text-align: left;
+}
+
+#jB6Text{
+
+}
+
+/* <-------------------------------------------------------------------------> */
+
+.journalBox7{
+  width: 30%;
+  margin-left: 10%;
+}
+
+#jB7Header{
+  text-align: left;
+}
+
+#jB7Text{
+
+}
+
+/* <-------------------------------------------------------------------------> */
+
+.journalBox8{
+  width: 30%;
+  margin-left: 10%;
+}
+
+#jB8Header{
+  text-align: left;
+}
+
+#jB8Text{
+
+}
+
+
+
 
 
 /* cyrillic-ext */
