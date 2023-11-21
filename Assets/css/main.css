@@ -17,6 +17,10 @@ h1{
 
 a:link {
 text-decoration: none;
+color: black;
+}
+a:visited{
+  color: black;
 }
 
 ul li
@@ -55,7 +59,7 @@ list-style-type: none;
 
 .journalBox1{
   width: 40%;
-  margin-left: 10%;
+  margin-left: 00%;
 }
 
 #jB1Header{
@@ -87,7 +91,7 @@ list-style-type: none;
 
 .journalBox2{
   width: 40%;
-  margin-left: 30%;
+  margin-left: 0%;
 }
 
 #jB2Header{
@@ -103,7 +107,7 @@ list-style-type: none;
 
 .journalBox3{
   width: 40%;
-  margin-left: 30%;
+  margin-left: 0%;
 }
 
 #jB3Header{
@@ -119,7 +123,7 @@ list-style-type: none;
 
 .journalBox4{
   width: 40%;
-  margin-left: 0%;
+  margin-left: 00%;
 }
 
 #jB4Header{
@@ -135,7 +139,7 @@ list-style-type: none;
 
 .journalBox5{
   width: 40%;
-  margin-left: 10%;
+  margin-left: 0%;
 }
 
 
@@ -168,7 +172,7 @@ list-style-type: none;
 
 .journalBox7{
   width: 40%;
-  margin-left: 10%;
+  margin-left: 0%;
 }
 
 #jB7Header{
