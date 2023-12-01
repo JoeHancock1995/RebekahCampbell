@@ -19,6 +19,7 @@ a:link {
 text-decoration: none;
 color: black;
 }
+
 a:visited{
   color: black;
 }
@@ -813,7 +814,7 @@ a.-underline {
   display: inline-block;
   font-size: 1rem;
   padding-left: 0;
-  vertical-align: top;
+  vertical-align: middle;
   width: 100%
 }
 
@@ -1058,7 +1059,7 @@ a.-underline {
 }
 
 .o-image_wrapper {
-  background-color: #d4c9c9;
+  background-color: #ffff;
   overflow: hidden;
   position: relative
 }
@@ -1328,7 +1329,7 @@ html.is-ready .c-header_logo {
 }
 
 .c-fixed_wrapper {
-  background-color: #d4c9c9;
+  background-color: #ffff;
   overflow: hidden;
   position: relative
 }

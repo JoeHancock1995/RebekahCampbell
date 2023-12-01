@@ -1899,6 +1899,26 @@
             var e = new ht(t)
               , i = []
               , s = [];
+
+//with colour transition on scroll
+
+            //   e.on("scroll", (function(t) {
+            //     var n = 360 * t.scroll.y / t.limit.y;
+            //     e.el.style.backgroundColor = "hsl(".concat(n, ", 11%, 81%)"),
+            //     i.forEach((function(t) {
+            //         t.el.style.backgroundColor = "hsl(".concat(n, ", 11%, 81%)")
+            //     }
+            //     )),
+            //     s.forEach((function(t) {
+            //         t.el.style.color = "hsl(".concat(n, ", 11%, 81%)")
+            //     }
+            //     )),
+            //     document.documentElement.setAttribute("data-direction", t.direction)
+            // }
+            // )),
+
+//without colour transition on scroll
+
             e.on("scroll", (function(t) {
                 var n = 360 * t.scroll.y / t.limit.y;
                 i.forEach((function(t) {
@@ -1911,6 +1931,8 @@
                 document.documentElement.setAttribute("data-direction", t.direction)
             }
             )),
+
+
             e.on("call", (function(t, e, n) {
                 if ("dynamicBackground" === t)
                     if ("enter" === e)
