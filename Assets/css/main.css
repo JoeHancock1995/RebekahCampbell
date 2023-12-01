@@ -1060,7 +1060,7 @@ a.-underline {
 
 .o-image_wrapper {
   background-color: #ffff;
-  overflow: hidden;
+  /* overflow: hidden; */
   position: relative
 }
 
@@ -1077,10 +1077,10 @@ a.-underline {
   }
 }
 
-.o-image {
+/* .o-image {
   mix-blend-mode: multiply;
   opacity: .75
-}
+} */
 
 .o-image img {
   opacity: 0;
