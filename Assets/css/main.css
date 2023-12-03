@@ -1211,7 +1211,7 @@ html.has-scroll-dragging {
 }
 
 .c-header_title {
-  padding: 2.5rem 0;
+  padding: .5rem 0;
   perspective: 600px;
   -webkit-perspective: 600px
 }
