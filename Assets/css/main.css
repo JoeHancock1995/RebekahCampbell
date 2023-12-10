@@ -1205,8 +1205,8 @@ html.has-scroll-dragging {
 
 @media (min-width: 1000px) {
   .c-header {
-      height:100vh;
-      min-height: 46.875rem
+      height:1vh;
+      min-height: 15.875rem
   }
 }
 
